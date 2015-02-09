@@ -1,0 +1,35 @@
+{
+  "name": "meteostation",
+  "version": "0.0.1",
+  "description": "meteostation to show actual temperature",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "~3.8.10",
+    "bower": "~1.3.12",
+    "gulp-browserify": "~0.5.1",
+    "gulp-sass": "~1.3.2",
+    "browserify": "~8.1.3",
+    "gulp-react": "~2.0.0"
+  },
+  "devDependencies": {
+    "gulp-serve": "~0.3.0",
+    "gulp-livereload": "~3.6.0",
+    "gulp-uglify": "~1.1.0",
+    "gulp-concat": "~2.4.3",
+    "gulp-clean": "~0.3.1",
+    "gulp-bower": "0.0.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flucivja/meteostation.git"
+  },
+  "author": "frantisek lucivjansky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flucivja/meteostation/issues"
+  },
+  "homepage": "https://github.com/flucivja/meteostation"
+}
